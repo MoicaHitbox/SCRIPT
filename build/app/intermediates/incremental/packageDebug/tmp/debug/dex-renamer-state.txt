@@ -1,0 +1,4 @@
+#Mon Sep 25 21:45:49 CST 2023
+base.0=C\:\\Users\\Bracamonte\\Desktop\\Proyetos Movil\\practica01\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
